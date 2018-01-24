@@ -20,7 +20,7 @@
     },
     "SLACK_TOKEN": {
       "description": "Your slack api token. get from https://api.slack.com/web#auth",
-      "value": ""
+      "value": "xoxp-298893982864-303991223746-303673210177-0f20f19e776922b2b58ab50fa5c1e443"
     },
     "BACKGROUND_COLOR": {
       "description": "Background color",
